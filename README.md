@@ -1,0 +1,2 @@
+# cordapp-template-kotlin_with_DiagnosticsService
+DiagnosticsServiceを使用したCordappのテンプレートです
